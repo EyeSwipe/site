@@ -16,7 +16,10 @@ Insert diagram
 
 ## How it works
 
-1. Numbered
+1. Data collection app:
+
+
+
 2. List
 
 
