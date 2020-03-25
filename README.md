@@ -26,6 +26,8 @@ Insert diagram (phone mounted before a user's eyes)
 
 1. Data collection app:
 
+![](IMG_7730.PNG)
+
 
 
 2. 
