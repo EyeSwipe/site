@@ -42,4 +42,5 @@ Unlike the final product, this data collection app requires the user (or an assi
 Links:
 
 [Eyeswipe github repository](https://github.com/EyeSwipe/EyeSwipe)
-[Grant Proposal]
+
+[2020 CTA Foundation Grant Proposal](https://github.com/EyeSwipe/site/blob/master/Complete%20Proposal%20-%20EyeSwipe%20-%202020%20CTA%20Foundation.pdf)
