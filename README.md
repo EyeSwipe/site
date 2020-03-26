@@ -39,9 +39,7 @@ Unlike the final product, this data collection app requires the user (or an assi
 
 
 ---
-easy markdown formatting options (edit the readme to see this!):
+Links:
 
-**Bold** and _Italic_ and `Code` text
-## Title Text
-[Link](url)
-<img src="" width="300">
+[Eyeswipe github repository](https://github.com/EyeSwipe/EyeSwipe)
+[Grant Proposal]
