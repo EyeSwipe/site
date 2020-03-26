@@ -4,8 +4,6 @@ EyeSwipe is a proposed fast eye-based user interface for digital devices, initia
 
 ## Existing technology
 
-(insert media here to show usage of Dynavox?)
-
 High-precision eye-tracking systems such as [Tobii/Dynavox](https://www.tobiidynavox.com/en-us/about/about-us/how-eye-tracking-works/) are costly, at $5000-15000, and rarely exceed ~20-25 WPM. EyeSwipe aims to make comfortable 60-80 WPM eye-typing feasible, by applying neural networks trained on videos of eyes typing known phrases.
 
 ## The Concept
