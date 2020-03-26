@@ -1,8 +1,3 @@
-
-Insert video here:
-
----
-
 ## Inspired by Swipe Keyboards
 
 EyeSwipe is a proposed fast eye-based user interface for digital devices, initially enabling ALS and other neurologically constrained patients to speak using their eyes much faster than now possible. We plan to make an eye-tracking equivalent of a swipe keyboard–a smartphone app which can be mounted in front of a user's eyes.
@@ -36,7 +31,7 @@ This app:
 
 3. Provides testing of an initial UI design which will inform the final keyboard app.
 
-Current Progress can be found in this repository: kaolin-eyeswipe-recorder
+Current Progress can be found in this repository: [kaolin-eyeswipe-recorder](https://github.com/EyeSwipe/EyeSwipe/tree/master/kaolin-eyeswipe-recorder)
 
 Unlike the final product, this data collection app requires the user (or an assistant) to move the device into position, manipulate the screen, and press "space" to start recording. As we continue developing the app, we will move toward a fully eye-based interface, with automatic calibration, auditory stimuli, etc. for the target users.
 
@@ -47,4 +42,5 @@ easy copy paste formatting options:
 
 **Bold** and _Italic_ and `Code` text
 ## Title Text
-[Link](url) and ![Image](src)
+[Link](url)
+<img src="" width="300">
