@@ -25,14 +25,14 @@ High-precision eye-tracking systems such as [Tobii/Dynavox](https://www.tobiidyn
 
 Built for iOS, this app:
 
-1. Delivers auditory ground truth phrases to the user, and captures video via front-facing camera as they eye-type the phrase.
+1. Delivers auditory [ground truth phrases to the user](https://github.com/EyeSwipe/EyeSwipe/tree/master/Sentences), and captures video via front-facing camera as they eye-type the phrase.
 
 2. Allows distributed data collection and labeling to facilitate RNN model building.
 
 3. Provides testing of an initial UI design which will inform the final keyboard app.
 
 
-Current progress can be found in this repository: [kaolin-eyeswipe-recorder](https://github.com/EyeSwipe/EyeSwipe/tree/master/kaolin-eyeswipe-recorder)
+Current progress on the app can be found in this repository: [kaolin-eyeswipe-recorder](https://github.com/EyeSwipe/EyeSwipe/tree/master/kaolin-eyeswipe-recorder)
 
 Unlike the final product, this data collection app requires the user (or an assistant) to move the device into position, manipulate the screen, and press "space" to start recording. As we continue developing the app, we will move toward a fully eye-based interface, with automatic calibration, auditory stimuli, etc. for the target users.
 
