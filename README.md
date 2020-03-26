@@ -24,14 +24,17 @@ Insert diagram (phone mounted before a user's eyes)
 
 ## How it works
 
-1. Data collection app:
+### Data collection app:
 
-![](IMG_7730.PNG)
+<img src="IMG_7730.PNG" width="300">
 
+This app:
 
+1. Delivers ground truth phrases to the user, and captures video via front-facing camera as they eye-type the phrase.
 
-2. 
+2. Allows distributed data collection and labeling to facilitate RNN model building.
 
+3. Provides testing of an initial UI design which will inform the final keyboard app.
 
 
 
