@@ -39,7 +39,7 @@ Unlike the final product, this data collection app requires the user (or an assi
 
 
 ---
-Links:
+### See More:
 
 [Eyeswipe github repository](https://github.com/EyeSwipe/EyeSwipe)
 
